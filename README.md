@@ -8,8 +8,6 @@ Bring your old black-and-white photos to life using Artificial Intelligence (AI)
 
 In this video, I’ll show you how I built an AI-Powered Image Colorization System using Python, OpenCV, and Deep Learning — a complete end-to-end Computer Vision project that transforms grayscale images into realistic, vibrant color photos.
 
-GitHub Code Link: 
-
 We’ll go step-by-step:
 ✅ Load and use a pre-trained Caffe Deep Learning model
 ✅ Understand LAB color space and AI-based color prediction
